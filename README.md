@@ -1,4 +1,4 @@
-# 👩🏻‍💻Gabriel Sandes
+# Gabriel Sandes
 
 **`Estudante de Programação`**
 
@@ -6,7 +6,7 @@ Meu nome é Gabriel Santos de Sandes, tenho 17 anos e atualmente curso Técnico 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -50,11 +50,11 @@ Meu nome é Gabriel Santos de Sandes, tenho 17 anos e atualmente curso Técnico 
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Figma" 
+    title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 <img 
     align="left" 
