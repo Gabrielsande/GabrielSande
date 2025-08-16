@@ -13,7 +13,7 @@ Meu nome é Gabriel Santos de Sandes, tenho 17 anos e atualmente curso Técnico 
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mySQL/MySQL-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/javaL-original.svg" 
 />
 <img 
     align="left" 
@@ -21,7 +21,7 @@ Meu nome é Gabriel Santos de Sandes, tenho 17 anos e atualmente curso Técnico 
     title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
 />
 
 <img 
