@@ -2,7 +2,7 @@
 
 **`Estudante de Programação`**
 
-Meu nome é Gabriel Santos de Sandes, tenho 17 anos e atualmente curso Técnico em Informática no Colégio ULBRA São Lucas. Sou apaixonado pela área de programação e tecnologia, o que me motiva a aprender e evoluir constantemente. Gosto de explorar novos conceitos, desenvolver meus próprios projetos e criar soluções criativas para diferentes desafios. Com dedicação e curiosidade, busco sempre aprimorar minhas habilidades, colaborar com outras pessoas e crescer tanto no aspecto pessoal quanto profissional dentro do mundo da tecnologia.
+Meu nome é Gabriel Santos de Sandes, tenho 18 anos e atualmente curso Técnico em Informática no Colégio ULBRA São Lucas. Sou apaixonado pela área de programação e tecnologia, o que me motiva a aprender e evoluir constantemente. Gosto de explorar novos conceitos, desenvolver meus próprios projetos e criar soluções criativas para diferentes desafios. Com dedicação e curiosidade, busco sempre aprimorar minhas habilidades, colaborar com outras pessoas e crescer tanto no aspecto pessoal quanto profissional dentro do mundo da tecnologia.
 
 ---
 
