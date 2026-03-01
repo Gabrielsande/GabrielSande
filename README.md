@@ -76,12 +76,5 @@ Meu nome é Gabriel Santos de Sandes, tenho 18 anos e atualmente curso Técnico 
 <br/>
 <br/>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsande&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 
 </p>
