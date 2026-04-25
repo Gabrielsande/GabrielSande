@@ -72,9 +72,29 @@ Meu nome é Gabriel Santos de Sandes, tenho 18 anos e atualmente curso Técnico 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img
+    align="left"
+    alt="PHP"
+    title="PHP"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+<img
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
 
 <br/>
 <br/>
+## 📊 GitHub Stats 
+![github-readme-stats vercel](https://github.com/user-attachments/assets/770dfac6-ba27-4bc5-899b-7cad32c86cf5) 
+ ![api](https://github.com/user-attachments/assets/e331312a-ceb5-4981-87bd-fa42088871d0)
+
 
 
 </p>
